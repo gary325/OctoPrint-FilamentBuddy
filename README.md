@@ -78,7 +78,7 @@ The three features can be used independently, hence if the user needs
 just one or two of them, can just disable what is not wanted.
 
 On the first startup, everything will be disabled and, through a 
-notification, the plugin will remember to the user to do the first 
+notification, the plugin will remind the user to do the first 
 configuration. This can be done via a guided procedures or directly 
 setting all the parameters. 
 
